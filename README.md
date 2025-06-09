@@ -14,7 +14,7 @@ The LLM_Model_finetuning.ipynb notebook guides you through:
 🛠️ Quick Start
 
 Clone the Repo:
-git clone https://github.com/Alone-Incarnate/LLM_Training.git
+git clone https://github.com/Alone-Incarnate/LLM_FineTuning.git
 cd LLM_Training
 
 
